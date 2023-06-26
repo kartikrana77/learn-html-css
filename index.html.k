@@ -7,10 +7,9 @@
     <meta
       name="discription"
       content="From this web page we are going to learn basic's of HTML"
-      <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0"
     />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>Littel big</title>
   </head>
   <body>
@@ -146,7 +145,7 @@
         id="full timecb"
       />
       <label for="fulltime">Full Time</label>
-      <br />
+
       <button>submit</button>
     </form>
   </body>
